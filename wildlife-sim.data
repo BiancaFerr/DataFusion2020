@@ -1,0 +1,5 @@
+classes = 4
+train = ../ABmodel1-2/wildlife-train.txt
+valid = wildlife-validate-sim.txt
+names = wildlife.names
+backup = ../ABmodel1-2/backup
